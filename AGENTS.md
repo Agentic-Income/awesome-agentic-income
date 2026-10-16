@@ -1,6 +1,16 @@
-﻿# Repository Instructions
+# Repository Instructions
 
 This repo is part of the FrankX / Starlight / Arcanea agent estate.
+
+## Architecture Stack (canonical)
+
+Before recommending or choosing technology, hosting, AI gateways, agent runtimes, databases, or storage:
+
+1. Fetch and follow the living document:  
+   https://github.com/frankxai/frankx-starlight-command/blob/main/ARCHITECTURE-STACK.md
+2. Use the Architectural Checker prompt inside that file for any new surface.
+3. Record repo-specific exceptions as short ADRs and link them back to the canonical file.
+4. Do not invent a parallel stack doctrine in this repo.
 
 ## Classification
 
@@ -39,4 +49,3 @@ For any site, app, landing page, dashboard, visual identity, brand, motion, medi
 - C:\Users\frank\starlight\repos\VISUAL_QA_GATE.md
 
 When motion, scroll, generated media, GIF/video, or premium polish matters, route through the Motion Design Studio plugin/skills and verify the result visually.
-
