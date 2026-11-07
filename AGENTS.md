@@ -6,8 +6,8 @@ This repo is part of the FrankX / Starlight / Arcanea agent estate.
 
 Before recommending or choosing technology, hosting, AI gateways, agent runtimes, databases, or storage:
 
-1. Fetch and follow the living document:  
-   https://github.com/frankxai/frankx-starlight-command/blob/main/ARCHITECTURE-STACK.md
+1. Fetch and follow the living document. It lives in a private repo, so the path is given literally rather than as a public hyperlink:  
+   `https://github.com/frankxai/frankx-starlight-command/blob/main/ARCHITECTURE-STACK.md`
 2. Use the Architectural Checker prompt inside that file for any new surface.
 3. Record repo-specific exceptions as short ADRs and link them back to the canonical file.
 4. Do not invent a parallel stack doctrine in this repo.
