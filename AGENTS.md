@@ -17,7 +17,7 @@ Before recommending or choosing technology, hosting, AI gateways, agent runtimes
 - Repo: awesome-agentic-income
 - Class: public awesome list (curated resources)
 - Default health command: `pwsh scripts/validate-links.ps1` (local markdown link check; the same script CI runs)
-- Remote: https://github.com/frankxai/awesome-agentic-income.git
+- Remote: https://github.com/Agentic-Income/awesome-agentic-income.git
 
 ## Agent Rules
 
