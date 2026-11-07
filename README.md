@@ -1,6 +1,6 @@
 # Awesome Agentic Income
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-agentic-income?style=flat)](https://github.com/frankxai/awesome-agentic-income) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-agentic-income?style=flat)](https://github.com/frankxai/awesome-agentic-income/commits/main)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/Agentic-Income/awesome-agentic-income?style=flat)](https://github.com/Agentic-Income/awesome-agentic-income) [![Last commit](https://img.shields.io/github/last-commit/Agentic-Income/awesome-agentic-income?style=flat)](https://github.com/Agentic-Income/awesome-agentic-income/commits/main)
 
 > Web-first infrastructure for building, measuring, and governing agent-assisted products—without income promises or affiliate funnels.
 
@@ -75,8 +75,8 @@ This lens is editorial, not an endorsement or a claim that a project satisfies e
 Companion catalogs are optional; the third-party projects above are this list's primary value.
 
 - [awesome-hermes-agents](https://github.com/frankxai/awesome-hermes-agents) · [awesome-manifestation-skills](https://github.com/frankxai/awesome-manifestation-skills) · [awesome-ai-coe](https://github.com/frankxai/awesome-ai-coe)
-- [awesome-agentic-income](https://github.com/frankxai/awesome-agentic-income) · [awesome-investor-agent-skills](https://github.com/frankxai/awesome-investor-agent-skills) · [awesome-design-agent-skills](https://github.com/frankxai/awesome-design-agent-skills) · [awesome-agent-operating-systems](https://github.com/frankxai/awesome-agent-operating-systems)
-- [awesome-music-agent-skills](https://github.com/frankxai/awesome-music-agent-skills) · [awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills) · [awesome-gamification-agent-skills](https://github.com/frankxai/awesome-gamification-agent-skills) · [awesome-wealth-agent-skills](https://github.com/frankxai/awesome-wealth-agent-skills)
+- [awesome-agentic-income](https://github.com/Agentic-Income/awesome-agentic-income) · [awesome-investor-agent-skills](https://github.com/Agentic-Income/awesome-investor-agent-skills) · [awesome-design-agent-skills](https://github.com/frankxai/awesome-design-agent-skills) · [awesome-agent-operating-systems](https://github.com/frankxai/awesome-agent-operating-systems)
+- [awesome-music-agent-skills](https://github.com/frankxai/awesome-music-agent-skills) · [awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills) · [awesome-gamification-agent-skills](https://github.com/frankxai/awesome-gamification-agent-skills) · [awesome-wealth-agent-skills](https://github.com/Agentic-Income/awesome-wealth-agent-skills)
 - [awesome-mind-agent-skills](https://github.com/frankxai/awesome-mind-agent-skills) · [awesome-cosmos-ai-agents](https://github.com/frankxai/awesome-cosmos-ai-agents) · [awesome-automation-agent-skills](https://github.com/frankxai/awesome-automation-agent-skills) · [awesome-payment-agent-skills](https://github.com/frankxai/awesome-payment-agent-skills) · [awesome-motion-design-agent-skills](https://github.com/frankxai/awesome-motion-design-agent-skills)
 
 ## Contribution standard
