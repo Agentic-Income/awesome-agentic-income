@@ -1,0 +1,40 @@
+# Awesome Agentic Income
+
+> Independent, web-first catalog of agent-product infrastructure: delivery, metering, billing, attribution, and governance. Curated, not exhaustive. No income promises and no affiliate funnels.
+
+Audience: builders and operators deciding how an agent-assisted product is delivered, priced, measured, and governed, plus agents asked to shortlist tooling in that space.
+
+## How to use
+
+No package install and no build step. This repo is markdown, a few assets, and one PowerShell validator.
+
+Read the catalog in `README.md`. The health check is the same script CI runs:
+
+    pwsh scripts/validate-links.ps1
+
+To propose an entry, open a pull request that follows `CONTRIBUTING.md`: a primary URL, one sentence on distinct value, current maintenance evidence, license posture, and a safety or deployment caveat.
+
+## Key files
+
+- `README.md` — the catalog itself: curated table, peer directories, contribution standard, and the dated research method.
+- `CONTRIBUTING.md` — what an entry must carry before a reviewer will consider it.
+- `AGENTS.md` — repo classification, health command, and agent rules.
+- `assets/github/provenance.json` — provenance record for the README visual suite.
+- `assets/github/README.md` — how the header, how-it-works, and build-deploy-verify visuals are produced.
+
+## Scope and exclusions
+
+- Curation, not endorsement. Inclusion is not a claim that a project is safe, maintained, or right for your case.
+- Star counts and licenses are dated discovery signals from a named research pulse, not rankings or current truth.
+- Third-party primary sources lead. Companion catalogs appear only at the end and are optional.
+- No affiliate links, private workflow exports, unsourced claims, or product pitches in place of a useful resource.
+- Nothing here is financial, legal, medical, or safety advice.
+- Content is dedicated to the public domain under CC0 1.0.
+
+## Links
+
+- [README](./README.md)
+- [AGENTS.md](./AGENTS.md)
+- [Organization profile](https://github.com/Agentic-Income)
+- [Sibling catalog: awesome-investor-agent-skills](https://github.com/Agentic-Income/awesome-investor-agent-skills)
+- [Sibling catalog: awesome-wealth-agent-skills](https://github.com/Agentic-Income/awesome-wealth-agent-skills)
